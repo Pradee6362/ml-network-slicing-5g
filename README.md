@@ -23,5 +23,14 @@ This mini project focuses on analyzing machine learning-based network slicing te
 - Confusion matrices
 - Computation time amalysis results
 
+## How to Run
+1. Open MATLAB
+2. Load datset files
+3. Run 'miniprojectNS1.m'
+4. Generated results will appear as graphs and confusion matrices
+
+## Project Outcome
+The project compares multiple machine learnig models for efficient netowrk slicing in 5G networks and evaluates their performance using accuracy metrics, confusion matrices, and computation time analysis.
+
 ## Author
 Pradeep S
